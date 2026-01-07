@@ -175,9 +175,6 @@ The application follows React's unidirectional data flow principle:
 - Acceptable risk for this use case
 - In production, would use proper UUID generation
 
-**Alternative Considered**: Inline styles (React style objects)
-- Pros: Component-scoped, no external files
-- Cons: No media queries, limited pseudo-selectors, harder to theme
 
 ### 2. Confirmation Modal for Delete
 **Decision**: Implemented custom confirmation modal component\

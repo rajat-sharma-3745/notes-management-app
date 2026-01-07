@@ -3,14 +3,14 @@
   font-family: 'JetBrains Mono', monospace;
   max-width: 800px;
   margin: 0 auto;
-  padding: 40px 20px;
+  padding: 10px 20px;
   min-height: 100vh;
   background-color: #f5f5f5;
 }
 
 .header {
   text-align: center;
-  margin-bottom: 40px;
+  margin-bottom: 20px;
   color: #333;
 }
 
